@@ -6,6 +6,6 @@
 - Teste a vontade
 
   ## Tecnologias usadas
-  -VsCode
-  -HTML
-  -CSS
+-VsCode
+-HTML
+-CSS
